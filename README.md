@@ -12,4 +12,4 @@ A README with rules to live by in the open source world.
 
 ##Publishing Work
 * The best outcome in any endeaver is one where we've learned a TON!  Don't care so much about having others use what you build.  In the end, people want what's useful.  Rarely do we write something that meets every need.
-* Small works are easier to swaller, much like food.
+* Small works are easier to swallow, much like food.
