@@ -19,3 +19,6 @@ A README with rules to live by in the open source world.
 ##Amazing Quotes (categorized)
 ###Leadership
 * "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves." Lao Tzu
+
+###Being a team player
+* "When you are content to be simply yourself and don't compare or compete, everybody will respect you." Lao Tzu
