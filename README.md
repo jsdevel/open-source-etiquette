@@ -9,7 +9,7 @@ A README with rules to live by in the open source world.
 * "Embrace ignorance" - In society, we generally try to avoid looking dumb.  In IT it's even worse.  Academia can compound this to unbelievable heights.  I've learned more from others than I ever could on my own.  That only comes if we're willing to accept that we don't always have the answer.
 * "Embrace failure" - Thomas J. Watson said: "If you want to increase your success rate, double your failure rate.".  Often starting and later reflecting helps us come closer to the best solution.  Experience is a great teacher.
 * "Be Encouraging" - I've tended to be somewhat of a harsh critic.  It's better to encourage others and let them come to conclusions on their own.  The time will come when a decision has to be made.  Likely it happens a week before you launch.  It's better to be in front of a bunch of different options, than behind a dusty wall of ideas that never saw the light of day.
-* "Give praise and recognize anyone involved" - This holds true for everyone.  Read it like the words "my" and "I" are you and you'll get it:  "Time is important, and [my] time is more important than yours.  Praising [me] for helping out makes [me] feel like [I] did something right and useful."
+* "Give praise and recognize anyone involved" - This holds true for everyone.  Read it like the words "my" and "I" are you and you'll get it:  "Time is important, and [my] time is more important than yours.  Praising [me] for helping out makes [me] feel like [I] did something right and useful, and it will encourage [me] to do more for you."
 
 
 ##Publishing Work
