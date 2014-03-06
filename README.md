@@ -1,7 +1,7 @@
 open-source-etiquette
 =====================
 
-A README with rules to live by in the open source world.
+A README with rules to live by in the open source world.  These are completely based on values currently held by the author.  In no way does the author claim to have mastered any of this; rather, the author views this document as a guide and as fuel to avoid hypocrosy.  Stating your beliefs openly puts grater pressure on an individual to live by them.  It is in this spirit that this document is maintained :)
 
 ##Maxims
 
