@@ -16,7 +16,7 @@ A README with rules to live by in the open source world.  These are completely b
   2. Boil Stone Soup (see http://en.wikipedia.org/wiki/Stone_Soup) - with this option, you risk your idea not being accepted.  Politically, nobody will view you as a threat, so you avoid the downfalls of option 1.  If you succeed and others become curious enough to participate, then you make others feel part of the process.  This option has the best overall outcome if successful.  The idea is advanced, everyone feels a part of it, therefore everyone wants and is willing to contribute to it.  Further advancement in ways you couldn't foresee are brought in as well through the ideas of others.
 
 ##Publishing Work
-* The best outcome in any endeaver is one where we've learned a TON!  Don't care so much about having others use what you build.  In the end, people want what's useful.  Rarely do we write something that meets every need.
+* The best outcome in any endeavor is one where we've learned a TON!  Don't care so much about having others use what you build.  In the end, people want what's useful.  Rarely do we write something that meets every need.
 * Small works are easier to swallow, much like food.
 
 ##Amazing Quotes (categorized)
